@@ -12,3 +12,7 @@ No fashion-retailer trademarks, page designs or copyrighted retailer imagery wer
 ## October 29 narration update
 
 The two -voice.mp4 files add generated Grady preset narration (Seed Audio via Higgsfield); not a recording of Mel or a customer. Original approved service claims retained. Visuals extended to avoid speeding up or cutting off speech. AAC audio normalized to -16 LUFS with a -1.5 dBTP target; revised WebVTT captions. Original silent exports retained.
+
+## October 29 conversational revision
+
+Current -holden.mp4 files replace the Grady narration with generated Holden preset narration using Seed Audio, and simpler original scripts. Actor race is not identified by the catalog; no claim about a real narrator's race or that this is Mel's recorded voice. Updated matching WebVTT captions. The experimental Qwen request rejected the preset and produced no audio.
